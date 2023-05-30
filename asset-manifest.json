@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Infinite_News/static/css/main.4989b6f3.css",
+    "main.js": "/Infinite_News/static/js/main.70193e05.js",
+    "index.html": "/Infinite_News/index.html",
+    "main.4989b6f3.css.map": "/Infinite_News/static/css/main.4989b6f3.css.map",
+    "main.70193e05.js.map": "/Infinite_News/static/js/main.70193e05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4989b6f3.css",
+    "static/js/main.70193e05.js"
+  ]
+}
