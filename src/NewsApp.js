@@ -86,7 +86,7 @@ function NewsApp() {
                     rowGap: "20px",
                 }}
             >
-                {newsList.map((news) => {
+                {newsList?.map((news) => {
                     return <News key={news.url} news={news} />;
                 })}
             </div>
